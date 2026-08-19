@@ -4,7 +4,7 @@ Machine Learning project to predict customer churn in the telecom industry using
 
 ## 🔗 Live Demo
 
-**Try it here:** [Add your Streamlit app URL here after deploying]
+**Try it here:** [https://telecom-churn-prediction-vyoj2n9xtccfvu4uhyluzf.streamlit.app/](https://telecom-churn-prediction-vyoj2n9xtccfvu4uhyluzf.streamlit.app/)
 
 ## Overview
 
